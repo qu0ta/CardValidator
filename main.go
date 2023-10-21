@@ -1,7 +1,7 @@
 package main
 
 import (
-	"cardValidator/server"
+	"cardValidator/src/server"
 	"log"
 	"net/http"
 )

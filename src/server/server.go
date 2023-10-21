@@ -1,7 +1,7 @@
 package server
 
 import (
-	"cardValidator/errorValidator"
+	"cardValidator/src/errorValidator"
 	"encoding/json"
 	"log"
 	"net/http"
